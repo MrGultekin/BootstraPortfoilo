@@ -1,2 +1,2 @@
 # BootstraPortfoilo
-[name](https://mrgultekin.github.io/BootstraPortfoilo/)
+[Project link](https://mrgultekin.github.io/BootstraPortfoilo/)
