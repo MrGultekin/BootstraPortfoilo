@@ -23,3 +23,71 @@
     padding: 3em !important;
   }
 }
+
+.myName {
+  animation: moveInLeft 1s ease-out;
+}
+
+@keyframes moveInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-100px);
+  }
+
+  70% {
+    transform: rotate(20deg);
+  }
+  80% {
+    transform: translateX(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.fa-facebook,
+.fa-github {
+  animation: moveInUp 1s ease-out;
+}
+
+.fa-twitter,
+.fa-instagram {
+  animation: moveInDown 1s ease-out;
+}
+
+@keyframes moveInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(100px);
+  }
+
+  70% {
+    transform: rotate(300deg);
+  }
+  80% {
+    transform: translateY(-30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes moveInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-100px);
+  }
+
+  70% {
+    transform: rotate(300deg);
+  }
+  80% {
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
