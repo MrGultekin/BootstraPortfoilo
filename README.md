@@ -1,10 +1,8 @@
-# BootstraPortfoilo Website
+# Bootstrap Portfoilo Website
 
 ![mockup](./img/pg1.png)
 
 [Project link click here 🔄](https://mrgultekin.github.io/BootstraPortfoilo/)
-
-# Personal Portfolio Website-Project
 
 - (Bootstrap Based)
 
