@@ -4,7 +4,11 @@
 
 - (Bootstrap Based)
 
-https://user-images.githubusercontent.com/66912057/150325478-73870b80-781c-4644-9c6e-455e07b56f86.mov
+
+https://user-images.githubusercontent.com/66912057/150326245-a49b85f4-24d0-4b2f-8cfe-320b88991d40.mov
+
+
+
 [Project link click here 🔄](https://mrgultekin.github.io/BootstraPortfoilo/)
 
 # Student at Digital Career Institute
