@@ -1,10 +1,10 @@
-# Bootstrap Portfoilo Website
+# Bootstrap Portfolio Website
 
 ![mockup](./img/pg1.png)
 
-[Project link click here 🔄](https://mrgultekin.github.io/BootstraPortfoilo/)
-
 - (Bootstrap Based)
+
+  [Project link click here 🔄](https://mrgultekin.github.io/BootstraPortfoilo/)
 
 # Student at Digital Career Institute
 
