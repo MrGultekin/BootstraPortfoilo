@@ -1,6 +1,8 @@
-# BootstraPortfoilo
+# BootstraPortfoilo Website
 
-[Project link](https://mrgultekin.github.io/BootstraPortfoilo/)
+![mockup](./img/pg1.png)
+
+[Project link click here 🔄](https://mrgultekin.github.io/BootstraPortfoilo/)
 
 # Personal Portfolio Website-Project
 
@@ -19,5 +21,3 @@
 - Bootstrap based components are especially collapse classes used.
 - Progress bars are like striped and animated bar with % selected.
 - Animation @keyframes **animations** are added.
-
-![mockup](./img/pg1.png)
